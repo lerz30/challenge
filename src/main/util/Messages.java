@@ -29,7 +29,7 @@ public class Messages {
 
     public static final String GENERIC_ERROR = "\nSomething went wrong. Please try again later";
 
-    public static final String SHOW_SHOPPING_CART = "\nHere is your purchase: \n";
+    public static final String SHOW_SHOPPING_CART = "\nHere is your shopping cart: \n";
 
     public static final String OUTPUT_MESSAGE = "\nSubtotal: '%1$s'€\n" +
             "Your savings in this purchase: '%2$s'€\n" +
